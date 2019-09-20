@@ -30,19 +30,21 @@ This repository includes the source material for the CFRG PAKE selection process
 
 The table below lists all reviews submitted to the CFRG mailing list. We mention only the first message of each mail thread. Reviewers who feel the initial does not reflect their latest position are requested to provide feedback (see below), preferably with a single message/file that covers their entire review.
 
-| Author              | Algorithms Covered               | Link                                                         |
-| ------------------- | -------------------------------- | ------------------------------------------------------------ |
-| Scott Fluhrer       | All balanced                     | https://mailarchive.ietf.org/arch/msg/cfrg/HssFKRoUdM2kyVt4T9j_KPZqAmE |
-| Bill Cox            | OPAQUE                           | https://mailarchive.ietf.org/arch/msg/cfrg/-B16hIOerRsHgoIxiln05TiJ17o |
-| Valery Smyslov      | All candidates, for IKEv2        | https://tools.ietf.org/html/draft-smyslov-ikev2-pake-00      |
-| Yoav Nir            | All candidates, for IKEv2        | https://mailarchive.ietf.org/arch/msg/cfrg/PWhIOQKBHapZ1Rpbd7Brr_JFIg8 |
-| Kevin Lewi          | All augmented                    | https://mailarchive.ietf.org/arch/msg/cfrg/9E1owZANyjCEZW44IWj0u1Lze2I |
-| Jonathan Hoyland    | All augmented, for TLS           | https://mailarchive.ietf.org/arch/msg/cfrg/FaY_3w5lWtygha0DTY5hJ9Yy7WU |
-| Bjoern Tackmann     | All augmented (preliminary)      | https://mailarchive.ietf.org/arch/msg/cfrg/euWBn5Nku0WFGKQ6qcITaCKVM-k |
-| Brian Warner        | All balanced, for Magic-Wormhole | https://mailarchive.ietf.org/arch/msg/cfrg/BBQ2gwCECu5ouTJjE_CE6d9Rg-0 |
-| Karthik Bhargavan   | All balanced, for TLS 1.3        | https://mailarchive.ietf.org/arch/msg/cfrg/5VhZLYGpzU8MWPlbMr2cf4Uc-nI |
-| Steve Thomas        | All augmented                    | https://mailarchive.ietf.org/arch/msg/cfrg/AQtLrLSfATpOKxdjAakacnp2cBo |
-| Thyla van der Merwe | All candidates                   | https://docs.google.com/document/d/114t9rTk-d4nkTJZbEwwAn83uRy0ru2dm5qwOj0AMFaw/edit?usp=sharing |
+| Author               | Algorithms Covered                  | Link                                                         |
+| -------------------- | ----------------------------------- | ------------------------------------------------------------ |
+| Scott Fluhrer        | All balanced                        | https://mailarchive.ietf.org/arch/msg/cfrg/HssFKRoUdM2kyVt4T9j_KPZqAmE |
+| Bill Cox             | OPAQUE                              | https://mailarchive.ietf.org/arch/msg/cfrg/-B16hIOerRsHgoIxiln05TiJ17o |
+| Valery Smyslov       | All candidates, for IKEv2           | https://tools.ietf.org/html/draft-smyslov-ikev2-pake-00      |
+| Yoav Nir             | All candidates, for IKEv2           | https://mailarchive.ietf.org/arch/msg/cfrg/PWhIOQKBHapZ1Rpbd7Brr_JFIg8 |
+| Kevin Lewi           | All augmented                       | https://mailarchive.ietf.org/arch/msg/cfrg/9E1owZANyjCEZW44IWj0u1Lze2I |
+| Jonathan Hoyland     | All augmented, for TLS              | https://mailarchive.ietf.org/arch/msg/cfrg/FaY_3w5lWtygha0DTY5hJ9Yy7WU |
+| Bjoern Tackmann      | All augmented (preliminary)         | https://mailarchive.ietf.org/arch/msg/cfrg/euWBn5Nku0WFGKQ6qcITaCKVM-k |
+| Brian Warner         | All balanced, for Magic-Wormhole    | https://mailarchive.ietf.org/arch/msg/cfrg/BBQ2gwCECu5ouTJjE_CE6d9Rg-0 |
+| Karthik Bhargavan    | All balanced, for TLS 1.3           | https://mailarchive.ietf.org/arch/msg/cfrg/5VhZLYGpzU8MWPlbMr2cf4Uc-nI |
+| Steve Thomas         | All augmented                       | https://mailarchive.ietf.org/arch/msg/cfrg/AQtLrLSfATpOKxdjAakacnp2cBo |
+| Thyla van der Merwe  | All candidates                      | https://docs.google.com/document/d/114t9rTk-d4nkTJZbEwwAn83uRy0ru2dm5qwOj0AMFaw/edit?usp=sharing |
+| Stanislav Smyshlyaev | All balanced                        | https://docs.google.com/document/d/1czsluXWzGNnlzJDChcULAB_sqFaUWHzGMKjkjZDBMok/edit?usp=sharing |
+| David Gotrik         | All candidates, for constrained IoT | [review](Reviews/dgotrik.pdf)                                |
 
 
 
