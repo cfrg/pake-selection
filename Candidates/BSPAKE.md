@@ -64,13 +64,13 @@
  the question. Also I'm not technically an author unless you call adding blind salt to SPAKE2+EE
  being an author.
 
-# REQ7: Authors of a scheme MAY discuss special ideas and solutions on privacy protection of its users.
+## REQ7: Authors of a scheme MAY discuss special ideas and solutions on privacy protection of its users.
 
  If user is not found, one could use default values for N, M, k3, and v*G (or k and v*G) because
  there's no way to determine if the same values are used every time. Also the default values
  should be generated from random as to not make a successful exchange.
 
-# REQ8: The authors MUST follow the IRTF IPR policy <https://irtf.org/ipr>.
+## REQ8: The authors MUST follow the IRTF IPR policy <https://irtf.org/ipr>.
 
   I am unaware of any patents on BSPAKE.
 
@@ -132,10 +132,9 @@ No.
  operations at the same time without depending on each other. In practice, a 2-round protocol
  could be implemented as 2 flows or 3 flows depending on the application context, but that’s
  more the implementation detail.
- Only 4 messages/"flows" are sent to verify both parties (client->server, server->client, client-
- >server, server->client). The client can start encrypting after 2 messages (client->server, server-
- >client) and the server after 3 messages (client->server, server->client, client->server). Server
- verifies the client after 3 messages and client verifies the server after 4 messages.
+ Only 4 messages/"flows" are sent to verify both parties (client->server, server->client, client-server, server->client). The client can start encrypting after 2 messages (client->server, server-
+ client) and the server after 3 messages (client->server, server->client, client->server). Server
+  verifies the client after 3 messages and client verifies the server after 4 messages.
  + How many operations of each type (scalar multiplications, inversions in finite fields, hash
  calculations etc.) are made by each side?
 
