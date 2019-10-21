@@ -19,7 +19,7 @@ This repository includes the source material for the CFRG PAKE selection process
 
 | Name    | Submitters    | Authoritative Source                                         | Additional Content                                           | Comments |
 | ------- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| OPAQUE  | Hugo Krawczyk | [draft-krawczyk-cfrg-opaque-02](https://tools.ietf.org/html/draft-krawczyk-cfrg-opaque-02) | [Requirements](Candidates/OPAQUE.md)                         |          |
+| OPAQUE  | Hugo Krawczyk | [draft-krawczyk-cfrg-opaque-03](https://tools.ietf.org/html/draft-krawczyk-cfrg-opaque-03) | [Requirements](Candidates/OPAQUE.md)                         |          |
 | AuCPace | Björn Haase   | https://eprint.iacr.org/2018/286 (updated)                   | [Addendum](Candidates/CPace%20and%20AuCPace%20-%20addendum.pdf) <br> [Corrigendum](Candidates/CPace%20and%20AuCPace%20-%20corrigendum.pdf) <br> [Simulator Code](Candidates/simulatorCode_CPace_AuCPace_StrongAuCPace.ods)|          |
 | VTBPEKE | Guilin Wang   | https://www.di.ens.fr/david.pointcheval/Documents/Papers/2017_asiaccsB.pdf | [Requirements](Candidates/VTBPEKE.pdf)                       |          |
 | BSPAKE  | Steve Thomas  |                                                              | [Information](Candidates/BSPAKE%20info.md) [Requirements](Candidates/BSPAKE.md) |          |
