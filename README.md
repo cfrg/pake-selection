@@ -32,7 +32,7 @@ The table below lists all reviews submitted to the CFRG mailing list. We mention
 
 | Author               | Algorithms Covered                  | Link                                                         |
 | -------------------- | ----------------------------------- | ------------------------------------------------------------ |
-| Scott Fluhrer        | All balanced                        | https://mailarchive.ietf.org/arch/msg/cfrg/HssFKRoUdM2kyVt4T9j_KPZqAmE |
+| Scott Fluhrer        | All balanced                        | https://mailarchive.ietf.org/arch/msg/cfrg/HssFKRoUdM2kyVt4T9j_KPZqAmE <br> Re-review: https://mailarchive.ietf.org/arch/msg/cfrg/MZ-L7qSTDZEtC9hjhPNyGOhXUlQ |
 | Bill Cox             | OPAQUE                              | https://mailarchive.ietf.org/arch/msg/cfrg/-B16hIOerRsHgoIxiln05TiJ17o |
 | Valery Smyslov       | All candidates, for IKEv2           | https://tools.ietf.org/html/draft-smyslov-ikev2-pake-00      |
 | Yoav Nir             | All candidates, for IKEv2           | https://mailarchive.ietf.org/arch/msg/cfrg/PWhIOQKBHapZ1Rpbd7Brr_JFIg8 |
