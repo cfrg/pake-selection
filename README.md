@@ -45,8 +45,17 @@ The table below lists all reviews submitted to the CFRG mailing list. We mention
 | Thyla van der Merwe  | All candidates                      | https://docs.google.com/document/d/114t9rTk-d4nkTJZbEwwAn83uRy0ru2dm5qwOj0AMFaw/edit?usp=sharing |
 | Stanislav Smyshlyaev | All balanced                        | https://docs.google.com/document/d/1czsluXWzGNnlzJDChcULAB_sqFaUWHzGMKjkjZDBMok/edit?usp=sharing |
 | David Gotrik         | All candidates, for constrained IoT | [review](Reviews/dgotrik.pdf)                                |
+| Tibor Jager          | All augmented                       | https://docs.google.com/document/d/1jAQm4lCUSJO73vyS14hF8Cl__grsOTF-Jj_CCStJDuU/edit?usp=sharing
 
 
+# Overall Reviews by Crypto Review Panel
+
+| Author               | Link                                                         |
+| -------------------- | ------------------------------------------------------------ |
+| Bjoern Tackmann      | https://mailarchive.ietf.org/arch/msg/cfrg/1sNu9USxo1lnFdzCL5msUFKBjzM |
+| Stanislav Smyshlyaev | https://docs.google.com/document/d/1-vzeCtSrm7zfoolr1JQdNqtp6KrtVEjitkH0OmjKapc/edit?usp=sharing |
+| Russ Housley         | https://docs.google.com/document/d/1L6lqueEB70C4QptEnjfWx-bhBdg6cT73ymmmm9WUAR0/edit?usp=sharing |
+| Yaron Sheffer        | [review](Reviews/Yaron Sheffer.html)    |
 
 # Providing Feedback
 
