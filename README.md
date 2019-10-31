@@ -50,6 +50,8 @@ The table below lists all reviews submitted to the CFRG mailing list. We mention
 
 # Overall Reviews by Crypto Review Panel
 
+The table below lists all overall reviews submitted by the Crypto Review Panel members during Stage 5 of the PAKE selection process.
+
 | Author               | Link                                                         |
 | -------------------- | ------------------------------------------------------------ |
 | Bjoern Tackmann      | https://mailarchive.ietf.org/arch/msg/cfrg/1sNu9USxo1lnFdzCL5msUFKBjzM |
