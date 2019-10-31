@@ -57,7 +57,7 @@ The table below lists all overall reviews submitted by the Crypto Review Panel m
 | Bjoern Tackmann      | https://mailarchive.ietf.org/arch/msg/cfrg/1sNu9USxo1lnFdzCL5msUFKBjzM |
 | Stanislav Smyshlyaev | https://docs.google.com/document/d/1-vzeCtSrm7zfoolr1JQdNqtp6KrtVEjitkH0OmjKapc/edit?usp=sharing |
 | Russ Housley         | https://docs.google.com/document/d/1L6lqueEB70C4QptEnjfWx-bhBdg6cT73ymmmm9WUAR0/edit?usp=sharing |
-| Yaron Sheffer        | [review](Reviews/YaronSheffer.html)    |
+| Yaron Sheffer        | [review](https://tools.ietf.org/html/draft-sheffer-cfrg-pake-review-00)    |
 
 # Providing Feedback
 
