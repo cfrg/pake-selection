@@ -5,7 +5,7 @@ This repository includes the source material for the CFRG PAKE selection process
 
 ## Balanced Algorithms
 
-| Name   | Submitters                  | Stage 2 | Authoritative Source                                         | Additional Content                                           | Comments                                                     |
+| Name   | Submitters                  | Round 2 | Authoritative Source                                         | Additional Content                                           | Comments                                                     |
 | ------ | --------------------------- | ----- |------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | SPAKE2 | Benjamin Kaduk, Watson Ladd |&#10003;| [draft-irtf-cfrg-spake2-09](https://tools.ietf.org/html/draft-irtf-cfrg-spake2-09) (updated) | [Requirements](Candidates/SPAKE2.md)                         |                                                              |
 | J-PAKE | Feng Hao                    || [RFC8236](https://tools.ietf.org/html/rfc8236)               | [Requirements](Candidates/J-PAKE.pdf)                        |                                                              |
@@ -16,7 +16,7 @@ This repository includes the source material for the CFRG PAKE selection process
 
 ## Augmented Algorithms
 
-| Name    | Submitters    | Stage 2 | Authoritative Source                                         | Additional Content                                           | Comments |
+| Name    | Submitters    | Round 2 | Authoritative Source                                         | Additional Content                                           | Comments |
 | ------- | ------------- | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | OPAQUE  | Hugo Krawczyk |&#10003;| [draft-krawczyk-cfrg-opaque-03](https://tools.ietf.org/html/draft-krawczyk-cfrg-opaque-03) | [Requirements](Candidates/OPAQUE.md)                         |          |
 | AuCPace | Björn Haase   |&#10003;| https://eprint.iacr.org/2018/286 (updated)                   | [Addendum](Candidates/CPace%20and%20AuCPace%20-%20addendum.pdf) <br> [Corrigendum](Candidates/CPace%20and%20AuCPace%20-%20corrigendum.pdf) <br> [Simulator Code](Candidates/simulatorCode_CPace_AuCPace_StrongAuCPace.ods)|          |
