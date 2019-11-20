@@ -1,28 +1,27 @@
 This repository includes the source material for the CFRG PAKE selection process (summer of 2019), and a summary of the published reviews of the 8 candidates.
 
 
-
 # PAKE Candidates
 
 ## Balanced Algorithms
 
-| Name   | Submitters                  | Authoritative Source                                         | Additional Content                                           | Comments                                                     |
-| ------ | --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| SPAKE2 | Benjamin Kaduk, Watson Ladd | [draft-irtf-cfrg-spake2-09](https://tools.ietf.org/html/draft-irtf-cfrg-spake2-09) (updated) | [Requirements](Candidates/SPAKE2.md)                         |                                                              |
-| J-PAKE | Feng Hao                    | [RFC8236](https://tools.ietf.org/html/rfc8236)               | [Requirements](Candidates/J-PAKE.pdf)                        |                                                              |
-| SPEKE  | Dan Harkins                 | https://eprint.iacr.org/2014/585                             | [Requirements](Candidates/SPEKE.pdf)                         | Submitter note: The only thing to add is that when SPEKE is used with ECC a hash-to-curve method from the RFC that comes out of the CFRG (when it comes out of the CFRG) is necessary to produce the secret generator that SPEKE requires. |
-| CPace  | Björn Haase                 | https://eprint.iacr.org/2018/286 (updated)                   | [Addendum](Candidates/CPace%20and%20AuCPace%20-%20addendum.pdf) <br> [Corrigendum](Candidates/CPace%20and%20AuCPace%20-%20corrigendum.pdf) <br> [Simulator Code](Candidates/simulatorCode_CPace_AuCPace_StrongAuCPace.ods)|                                                              |
+| Name   | Submitters                  | Stage 2 | Authoritative Source                                         | Additional Content                                           | Comments                                                     |
+| ------ | --------------------------- | ----- |------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| SPAKE2 | Benjamin Kaduk, Watson Ladd |&#10003;| [draft-irtf-cfrg-spake2-09](https://tools.ietf.org/html/draft-irtf-cfrg-spake2-09) (updated) | [Requirements](Candidates/SPAKE2.md)                         |                                                              |
+| J-PAKE | Feng Hao                    || [RFC8236](https://tools.ietf.org/html/rfc8236)               | [Requirements](Candidates/J-PAKE.pdf)                        |                                                              |
+| SPEKE  | Dan Harkins                 || https://eprint.iacr.org/2014/585                             | [Requirements](Candidates/SPEKE.pdf)                         | Submitter note: The only thing to add is that when SPEKE is used with ECC a hash-to-curve method from the RFC that comes out of the CFRG (when it comes out of the CFRG) is necessary to produce the secret generator that SPEKE requires. |
+| CPace  | Björn Haase                 |&#10003;| https://eprint.iacr.org/2018/286 (updated)                   | [Addendum](Candidates/CPace%20and%20AuCPace%20-%20addendum.pdf) <br> [Corrigendum](Candidates/CPace%20and%20AuCPace%20-%20corrigendum.pdf) <br> [Simulator Code](Candidates/simulatorCode_CPace_AuCPace_StrongAuCPace.ods)|                                                              |
 
 
 
 ## Augmented Algorithms
 
-| Name    | Submitters    | Authoritative Source                                         | Additional Content                                           | Comments |
-| ------- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| OPAQUE  | Hugo Krawczyk | [draft-krawczyk-cfrg-opaque-03](https://tools.ietf.org/html/draft-krawczyk-cfrg-opaque-03) | [Requirements](Candidates/OPAQUE.md)                         |          |
-| AuCPace | Björn Haase   | https://eprint.iacr.org/2018/286 (updated)                   | [Addendum](Candidates/CPace%20and%20AuCPace%20-%20addendum.pdf) <br> [Corrigendum](Candidates/CPace%20and%20AuCPace%20-%20corrigendum.pdf) <br> [Simulator Code](Candidates/simulatorCode_CPace_AuCPace_StrongAuCPace.ods)|          |
-| VTBPEKE | Guilin Wang   | https://www.di.ens.fr/david.pointcheval/Documents/Papers/2017_asiaccsB.pdf | [Requirements](Candidates/VTBPEKE.pdf)                       |          |
-| BSPAKE  | Steve Thomas  |                                                              | [Information](Candidates/BSPAKE%20info.md) [Requirements](Candidates/BSPAKE.md) |          |
+| Name    | Submitters    | Stage 2 | Authoritative Source                                         | Additional Content                                           | Comments |
+| ------- | ------------- | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| OPAQUE  | Hugo Krawczyk |&#10003;| [draft-krawczyk-cfrg-opaque-03](https://tools.ietf.org/html/draft-krawczyk-cfrg-opaque-03) | [Requirements](Candidates/OPAQUE.md)                         |          |
+| AuCPace | Björn Haase   |&#10003;| https://eprint.iacr.org/2018/286 (updated)                   | [Addendum](Candidates/CPace%20and%20AuCPace%20-%20addendum.pdf) <br> [Corrigendum](Candidates/CPace%20and%20AuCPace%20-%20corrigendum.pdf) <br> [Simulator Code](Candidates/simulatorCode_CPace_AuCPace_StrongAuCPace.ods)|          |
+| VTBPEKE | Guilin Wang   || https://www.di.ens.fr/david.pointcheval/Documents/Papers/2017_asiaccsB.pdf | [Requirements](Candidates/VTBPEKE.pdf)                       |          |
+| BSPAKE  | Steve Thomas  ||                                                              | [Information](Candidates/BSPAKE%20info.md) [Requirements](Candidates/BSPAKE.md) |          |
 
 
 
