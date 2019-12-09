@@ -58,6 +58,15 @@ The table below lists all overall reviews submitted by the Crypto Review Panel m
 | Russ Housley         | https://docs.google.com/document/d/1L6lqueEB70C4QptEnjfWx-bhBdg6cT73ymmmm9WUAR0/edit?usp=sharing |
 | Yaron Sheffer        | [review](https://tools.ietf.org/html/draft-sheffer-cfrg-pake-review-00)    |
 
+# Questions for Round 2
+
+1) (to SPAKE2): Can you propose a modification of SPAKE2 (preserving all existing good properties of PAKE2) with a correspondingly updated security proof, addressing the issue of a single discrete log relationship necessary for the security of all sessions (e.g., solution based on using M=hash2curve(A|B), N=hash2curve(B|A))?
+2) (to CPace and AuCPace): Can you propose a modification of CPace and AuCPace (preserving all existing good properties of these PAKEs) with a correspondingly updated security proof (maybe, in some other security models), addressing the issue of requiring the establishment of a session identifier (sid) during each call of the protocol for the cost of one additional message?
+3) (to all 4 remaining PAKEs) : Can the nominators/developers of the protocols please re-evaluate possible IPR conflicts between their candidates protocols and own and foreign patents? Specifically, can you discuss the impact of U.S. Patent 7,047,408 (expected expiration 10th of march 2023) on free use of SPAKE2 and the impact of EP1847062B1 (HMQV, expected expiration October 2026) on the free use of the RFC-drafts for OPAQUE?
+4) (to all 4 remaining PAKEs) What can be said about the property of "quantum annoyance" (an attacker with a quantum computer needs to solve [one or more] DLP per password guess) of the PAKE?
+5) (to all 4 remaining PAKEs) What can be said about "post-quantum preparedness" of the PAKE?
+
 # Providing Feedback
 
 To update the base material for a PAKE candidate or any of the reviews, please open an issue or, better yet, submit a pull request. Any substantial change should be reported to the [CFRG mailing list](https://mailarchive.ietf.org/arch/browse/cfrg/). Please include a link to the mailing list post.
+
