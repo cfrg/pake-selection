@@ -66,6 +66,16 @@ The table below lists all overall reviews submitted by the Crypto Review Panel m
 4) (to all 4 remaining PAKEs) What can be said about the property of "quantum annoyance" (an attacker with a quantum computer needs to solve [one or more] DLP per password guess) of the PAKE?
 5) (to all 4 remaining PAKEs) What can be said about "post-quantum preparedness" of the PAKE?
 
+# Answers on Round 2
+
+| Protocol               | Link                                                         |
+| -------------------- | ------------------------------------------------------------ |
+| CPace and AuCPace      | https://mailarchive.ietf.org/arch/msg/cfrg/eRNe0SYH3lwHifwZkmqHRy4pdNE |
+| SPAKE2 | https://mailarchive.ietf.org/arch/msg/cfrg/senXefqczpUZo26B35ekz8d3iLo |
+| OPAQUE         | https://mailarchive.ietf.org/arch/msg/cfrg/EJnaKEh_RamzghcjAik5v9_Fwf8 |
+
+Related information on IPR (SPAKE2): https://datatracker.ietf.org/ipr/4018/
+
 # Providing Feedback
 
 To update the base material for a PAKE candidate or any of the reviews, please open an issue or, better yet, submit a pull request. Any substantial change should be reported to the [CFRG mailing list](https://mailarchive.ietf.org/arch/browse/cfrg/). Please include a link to the mailing list post.
