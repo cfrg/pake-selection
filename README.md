@@ -76,6 +76,17 @@ The table below lists all overall reviews submitted by the Crypto Review Panel m
 
 Related information on IPR (SPAKE2): https://datatracker.ietf.org/ipr/4018/
 
+# Reviews by Crypto Review Panel, Round 2
+
+The table below lists all overall reviews submitted by the Crypto Review Panel members during Stage 5 of the PAKE selection process.
+
+| Author               | Link                                                         |
+| -------------------- | ------------------------------------------------------------ |
+| Bjoern Tackmann      | https://mailarchive.ietf.org/arch/msg/cfrg/eo8O6JYPmWY6L9TlcIXStFy5gNQ/ |
+| Julia Hesse          | https://mailarchive.ietf.org/arch/msg/cfrg/47pnOSsrVS8uozXbAuM-alEk0-s/ |
+| Russ Housley         | https://mailarchive.ietf.org/arch/msg/crypto-panel/r3ktVcmPA-POVMNjVBmY84lTOHA/ |
+| Scott Fluhrer        | https://mailarchive.ietf.org/arch/msg/cfrg/JwBPf_71G6JcfUttFw9MbvnIDCU/   |
+
 # Providing Feedback
 
 To update the base material for a PAKE candidate or any of the reviews, please open an issue or, better yet, submit a pull request. Any substantial change should be reported to the [CFRG mailing list](https://mailarchive.ietf.org/arch/browse/cfrg/). Please include a link to the mailing list post.
